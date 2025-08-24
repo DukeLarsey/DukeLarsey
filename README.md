@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Duke, a software developer. My passion rests in how we can utilize emerging digital technologies to deliver real-world software solutions.
+
+🔭 I’m currently enrolled in Thrive Africa's full Software Engineering Program💻 <br>
+👯 I’m looking to collaborate on custom mobile app & web development projects🖥💡 <br>
+💬 Ask me about anything!😃 <br>
+📫 How to reach me: [dukelarsey@gmail.com](dukelarsey@gmail.com)✉ <br>
+⚡ Fun fact: My favourite instrument is the (10-Holed) C-Key Harmonica🎵 <br>
+
+
+
 <!--
 **DukeLarsey/DukeLarsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
