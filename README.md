@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Duke, a software developer. My passion rests in how we can utilize emerging digital technologies to deliver real-world software solutions.
+My name is Duke. My passion rests in how we can utilize emerging digital technologies to deliver real-world software solutions.
 
 🔭 I’m currently enrolled in Thrive Africa's full Software Engineering Program💻 <br>
 👯 I’m looking to collaborate on custom mobile app & web development projects🖥💡 <br>
