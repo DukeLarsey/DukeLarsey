@@ -2,8 +2,7 @@
 
 My name is Duke. My passion rests in how we can utilize emerging digital technologies to deliver real-world software solutions.
 
-🔭 I’m currently enrolled in Thrive Africa's full Software Engineering Program💻 <br>
-👯 I’m looking to collaborate on custom mobile app & web development projects🖥💡 <br>
+👯 I’m looking to collaborate on web development projects🖥💡 <br>
 💬 Ask me about anything!😃 <br>
 📫 How to reach me: [dukelarsey@gmail.com](dukelarsey@gmail.com)✉ <br>
 ⚡ Fun fact: My favourite instrument is the (10-Holed) C-Key Harmonica🎵 <br>
