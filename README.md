@@ -32,7 +32,7 @@
 #### Programming languages
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p align="center">
+    <p align="left" gap="20px">
         <img src="./assets/python.svg" alt="python" title="python"/>
         <img src="./assets/html.svg" alt="html" title="html"/>
         <img src="./assets/css.svg" alt="css" title="css"/>
@@ -43,37 +43,47 @@
 #### Content Management Systems
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p><img src="./assets/wordpress.svg" alt="wordpress" title="wordpress" /></p>
-    <p><img src="./assets/elementor.svg" alt="elementor" title="elementor" /></p>
+    <p align="left" gap="20px">
+        <img src="./assets/wordpress.svg" alt="wordpress" title="wordpress" />
+        <img src="./assets/elementor.svg" alt="elementor" title="elementor" />
+    </p>
 </div>
 
 #### Cloud computing
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p><img src="./assets/aws.svg" alt="aws" title="aws" /></p>
+    <p align="left" gap="20px">
+        <img src="./assets/aws.svg" alt="aws" title="aws" />
+    </p>
 </div>
 
 #### Design tools
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p><img src="./assets/figma.svg" alt="figma" title="figma"/></p>
-    <p><img src="./assets/canva.svg" alt="canva" title="canva"/></p>
+    <p align="left" gap="20px">
+        <img src="./assets/figma.svg" alt="figma" title="figma"/>
+        <img src="./assets/canva.svg" alt="canva" title="canva"/>
+    </p>
 </div>
 
 #### Version Control
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p><img src="./assets/git.svg" alt="git" title="git"/></p>
-    <p><img src="./assets/github.svg" alt="github" title="github"/></p>
+    <p align="left" gap="20px">
+        <img src="./assets/git.svg" alt="git" title="git"/>
+        <img src="./assets/github.svg" alt="github" title="github"/>
+    </p>
 </div>
 
 #### Operating systems
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p><img src="./assets/windows.svg" alt="windows" title="windows"/></p>
-    <p><img src="./assets/linux.svg" alt="linux" title="linux"/></p>
-    <p><img src="./assets/ubuntu.svg" alt="ubuntu" title="ubuntu"/></p>
-    <p><img src="./assets/mint.svg" alt="linux mint" title="linux mint"/></p>
+    <p align="left" gap="20px">
+        <img src="./assets/windows.svg" alt="windows" title="windows"/>
+        <img src="./assets/linux.svg" alt="linux" title="linux"/>
+        <img src="./assets/ubuntu.svg" alt="ubuntu" title="ubuntu"/>
+        <img src="./assets/mint.svg" alt="linux mint" title="linux mint"/>
+    </p>
 </div>
 
 ---
