@@ -122,7 +122,7 @@
     <td><strong>Version Control</strong></td>
     <td>
         <img src="./assets/git.svg" alt="git" title="git"/>
-        <img src="./assets/github2.svg" alt="github" title="github"/>
+        <img src="./assets/github.svg" alt="github" title="github"/>
     </td>
   </tr>
   <tr>
