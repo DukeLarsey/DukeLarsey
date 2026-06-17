@@ -8,11 +8,11 @@
 **`Researcher`** -->
 
 <p align="center">
-  <code>I.T. Professional</code> <>
-  <code>Web Developer</code> <>
-  <code>UI/UX Designer</code> <>
-  <code>I.T. Support Technician</code> <>
-  <code>Certified Cloud Practitioner (AWS)</code> <>
+  <code>I.T. Professional</code> |
+  <code>Web Developer</code> |
+  <code>UI/UX Designer</code> |
+  <code>I.T. Support Technician</code> |
+  <code>Certified Cloud Practitioner (AWS)</code> |
   <code>Researcher</code>
 </p>
 
@@ -32,10 +32,12 @@
 #### Programming languages
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
-    <p><img src="./assets/python.svg" alt="python" title="python"/></p>
-    <p><img src="./assets/html.svg" alt="html" title="html"/></p>
-    <p><img src="./assets/css.svg" alt="css" title="css"/></p>
-    <p><img src="./assets/javascript.svg" alt="javascript" title="javascript"/></p>
+    <p align="center">
+        <img src="./assets/python.svg" alt="python" title="python"/>
+        <img src="./assets/html.svg" alt="html" title="html"/>
+        <img src="./assets/css.svg" alt="css" title="css"/>
+        <img src="./assets/javascript.svg" alt="javascript" title="javascript"/>
+    </p>
 </div>
 
 #### Content Management Systems
