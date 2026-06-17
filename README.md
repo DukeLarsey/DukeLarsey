@@ -29,7 +29,7 @@
 
 ### 🛠⚙ Tech Stack
 
-#### Programming languages
+<!-- #### Programming languages
 
 <div style="display:flex; gap:20px; margin-bottom:-25px;">
     <p align="left" gap="20px">
@@ -84,9 +84,59 @@
         <img src="./assets/ubuntu.svg" alt="ubuntu" title="ubuntu"/>
         <img src="./assets/mint.svg" alt="linux mint" title="linux mint"/>
     </p>
-</div>
+</div> -->
 
 ---
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="./assets/python.svg" alt="python" title="python"/>
+      <img src="./assets/html.svg" alt="html" title="html"/>
+      <img src="./assets/css.svg" alt="css" title="css"/>
+      <img src="./assets/javascript.svg" alt="javascript" title="javascript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Content Management Systems</strong></td>
+    <td>
+      <img src="./assets/wordpress.svg" alt="wordpress" title="wordpress" />
+      <img src="./assets/elementor.svg" alt="elementor" title="elementor" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud Computing</strong></td>
+    <td>
+      <img src="./assets/aws.svg" alt="aws" title="aws" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Design Tools</strong></td>
+    <td>
+        <img src="./assets/figma.svg" alt="figma" title="figma"/>
+        <img src="./assets/canva.svg" alt="canva" title="canva"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+        <img src="./assets/git.svg" alt="git" title="git"/>
+        <img src="./assets/github2.svg" alt="github" title="github"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+        <img src="./assets/windows.svg" alt="windows" title="windows"/>
+        <img src="./assets/linux.svg" alt="linux" title="linux"/>
+        <img src="./assets/ubuntu.svg" alt="ubuntu" title="ubuntu"/>
+        <img src="./assets/mint.svg" alt="linux mint" title="linux mint"/>
+    </td>
+  </tr>
+</table>
+
+
 
 <!--
 **DukeLarsey/DukeLarsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
