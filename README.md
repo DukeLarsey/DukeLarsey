@@ -11,14 +11,6 @@
 
 <h4 align="center">💻Passionate about continuous growth and development✨</h4>
 
-<!--
-I am a versatile IT professional with experience in web development, UI/UX design, IT support, data management and quantitative research. As a certified cloud professional, I also have experience in cloud computing, linux administration, as well as automation.
-
-👯 I’m looking to collaborate on web development projects🖥💡 <br>
-💬 Ask me about anything!😃 <br>
-⚡ Fun fact: My favourite instrument is the (10-Holed) C-Key Harmonica🎵 <br>
--->
-
 ---
 
 ### 🛠⚙ Tech Stack
@@ -67,6 +59,38 @@ I am a versatile IT professional with experience in web development, UI/UX desig
         <img src="./assets/linux.svg" alt="linux" title="linux"/>
         <img src="./assets/ubuntu.svg" alt="ubuntu" title="ubuntu"/>
         <img src="./assets/mint.svg" alt="linux mint" title="linux mint"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💡 Additional tools and technologies
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr>
+    <td><strong>Data analytics & visualisation</strong></td>
+    <td>
+      <img src="./assets/jupyter.svg" alt="jupyter" title="jupyter"/>
+      <img src="./assets/python.svg" alt="python" title="python"/>
+      <img src="./assets/pandas.svg" alt="pandas" title="pandas"/>
+      <img src="./assets/numpy.svg" alt="numpy" title="numpy"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Workflow automation and scripting</strong></td>
+    <td>
+      <img src="./assets/zapier.svg" alt="zapier" title="zapier" />
+      <img src="./assets/n8n.svg" alt="n8n" title="n8n" />
+      <img src="./assets/linux.svg" alt="linux" title="linux"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend tools</strong></td>
+    <td>
+      <img src="./assets/supbase.svg" alt="supbase" title="supbase" />
+      <img src="./assets/postgresql.svg" alt="postgresql" title="postgresql" />
+      <img src="./assets/sql.svg" alt="aws" title="sql" />
     </td>
   </tr>
 </table>
