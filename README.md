@@ -91,7 +91,6 @@
       <img src="./assets/supabase.svg" alt="supbase" title="supbase" />&nbsp;&nbsp;&nbsp;
       <img src="./assets/postgresql.svg" alt="postgresql" title="postgresql" />&nbsp;&nbsp;&nbsp;
       <img src="./assets/mysql.svg" alt="mysql" title="mysql" />&nbsp;&nbsp;&nbsp;
-      <img src="./assets/sql.svg" alt="sql" title="sql" />&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
