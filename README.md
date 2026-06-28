@@ -69,7 +69,7 @@
 
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td><strong>Data analytics & visualisation</strong></td>
+    <td><strong>Data Analytics & Visualisation</strong></td>
     <td>
       <img src="./assets/jupyter.svg" alt="jupyter" title="jupyter" />&nbsp;&nbsp;&nbsp;
       <img src="./assets/python.svg" alt="python" title="python" />&nbsp;&nbsp;&nbsp;
@@ -78,7 +78,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Workflow automation and scripting</strong></td>
+    <td><strong>Workflow Automation and Scripting</strong></td>
     <td>
       <img src="./assets/zapier.svg" alt="zapier" title="zapier" />&nbsp;&nbsp;&nbsp;
       <img src="./assets/n8n.svg" alt="n8n" title="n8n" />&nbsp;&nbsp;&nbsp;
@@ -86,7 +86,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Backend tools</strong></td>
+    <td><strong>Backend Tools</strong></td>
     <td>
       <img src="./assets/supabase.svg" alt="supbase" title="supbase" />&nbsp;&nbsp;&nbsp;
       <img src="./assets/postgresql.svg" alt="postgresql" title="postgresql" />&nbsp;&nbsp;&nbsp;
